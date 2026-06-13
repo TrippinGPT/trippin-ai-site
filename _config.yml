@@ -1,0 +1,6 @@
+title: Trippin AI
+description: Public Terms of Service and Privacy Policy pages for Trippin AI.
+url: "https://trippingpt.github.io"
+baseurl: "/trippin-ai-site"
+markdown: kramdown
+theme: minima
