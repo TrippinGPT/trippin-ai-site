@@ -5,7 +5,7 @@ permalink: /legal/terms/
 
 # Trippin AI Terms of Service
 
-Last updated: TODO
+Last updated: June 13, 2026
 
 These Terms of Service are project policy drafts for Trippin AI. They are not legal advice.
 
@@ -61,4 +61,5 @@ Any market, business, creative, or workflow discussion is for research, educatio
 
 ## Contact
 
-TODO add public contact email or support link.
+For support or policy questions, use the public GitHub Issues page:
+[https://github.com/TrippinGPT/trippin-ai-site/issues](https://github.com/TrippinGPT/trippin-ai-site/issues)

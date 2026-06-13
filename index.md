@@ -24,4 +24,5 @@ These pages are prepared for public static hosting so Discord app users can acce
 
 ## Contact
 
-TODO add public contact email or support link.
+For support or policy questions, use the public GitHub Issues page:
+[https://github.com/TrippinGPT/trippin-ai-site/issues](https://github.com/TrippinGPT/trippin-ai-site/issues)

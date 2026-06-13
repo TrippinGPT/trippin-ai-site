@@ -5,7 +5,7 @@ permalink: /legal/privacy/
 
 # Trippin AI Privacy Policy
 
-Last updated: TODO
+Last updated: June 13, 2026
 
 This Privacy Policy is a project policy draft for Trippin AI. It is not legal advice.
 
@@ -75,4 +75,5 @@ If sensitive information is accidentally posted, users should delete the message
 
 ## Contact
 
-TODO add public contact email or support link.
+For support or policy questions, use the public GitHub Issues page:
+[https://github.com/TrippinGPT/trippin-ai-site/issues](https://github.com/TrippinGPT/trippin-ai-site/issues)

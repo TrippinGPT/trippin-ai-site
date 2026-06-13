@@ -14,4 +14,5 @@ Trippin AI is a Discord community assistant for beta testing, incident capture, 
 
 ## Contact
 
-TODO add public contact email or support link.
+For support or policy questions, use the public GitHub Issues page:
+[https://github.com/TrippinGPT/trippin-ai-site/issues](https://github.com/TrippinGPT/trippin-ai-site/issues)
